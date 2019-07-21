@@ -1,0 +1,5 @@
+core\Init.class
+bank\FirstPageBank.class
+bank\GeneralBank.class
+bank\ActiveTabBank.class
+PageObjectTest.class
